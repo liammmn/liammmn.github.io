@@ -8,7 +8,7 @@
       <link href="/2024/06/17/Blog/"/>
       <url>/2024/06/17/Blog/</url>
       
-        <content type="html"><![CDATA[<p>你好</p>]]></content>
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>你好</p><iframe src="//player.bilibili.com/player.html?isOutside=true&aid=1255680090&bvid=BV1yJ4m1M7TU&cid=1579338917&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>]]></content>
       
       
       
@@ -21,7 +21,7 @@
       <link href="/2024/06/16/Team/"/>
       <url>/2024/06/16/Team/</url>
       
-        <content type="html"><![CDATA[<p>红岩精神是在中共中央的领导下，以周恩来为代表的南方局老一辈无产阶级革命家、共产党人和革命志士，在抗日战争及解放战争初期的斗争中形成的革命精神。<br>红岩精神产生的大背景是世界处于第二次世界大战时期，中国处于全民族抗日战争时期，中国共产党处于逐步成熟时期和第二次国共合作时期。具体讲，红岩精神产生在风雨如磐的革命斗争岁月，整个时间跨度从1939年1月南方局在重庆成立至1946年5月南方局离开重庆。<br>红岩精神蕴涵着党的思想、组织、作风建设等方面的丰富经验，为不断提高党的执政能力和领导水平提供了历史镜鉴，也是我们党深入推进反腐败斗争、重塑风清气正政治生态的强大精神力量。<br>习近平总书记高度肯定红岩精神，他以更加深邃的历史眼光、更加宽广的时代视野和更加厚重的历史史实，先后四次对红岩精神进行了重要论述。他表示“重庆的光荣革命传统，熔铸了崇高的红岩精神，是激发和凝聚全市干部群众团结奋进的强大精神力量。”这些深刻阐述，更加彰显了红岩精神在新时代的重要地位和独特价值。<br>2020年8月，为深入贯彻习近平总书记关于弘扬红岩精神的重要指示精神，切实加强红岩革命文物保护传承，重庆市文化和旅游发展委员会印发《红岩革命文物保护传承工程实施方案》。</p>]]></content>
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>红岩精神是在中共中央的领导下，以周恩来为代表的南方局老一辈无产阶级革命家、共产党人和革命志士，在抗日战争及解放战争初期的斗争中形成的革命精神。<br>红岩精神产生的大背景是世界处于第二次世界大战时期，中国处于全民族抗日战争时期，中国共产党处于逐步成熟时期和第二次国共合作时期。具体讲，红岩精神产生在风雨如磐的革命斗争岁月，整个时间跨度从1939年1月南方局在重庆成立至1946年5月南方局离开重庆。<br>红岩精神蕴涵着党的思想、组织、作风建设等方面的丰富经验，为不断提高党的执政能力和领导水平提供了历史镜鉴，也是我们党深入推进反腐败斗争、重塑风清气正政治生态的强大精神力量。<br>习近平总书记高度肯定红岩精神，他以更加深邃的历史眼光、更加宽广的时代视野和更加厚重的历史史实，先后四次对红岩精神进行了重要论述。他表示“重庆的光荣革命传统，熔铸了崇高的红岩精神，是激发和凝聚全市干部群众团结奋进的强大精神力量。”这些深刻阐述，更加彰显了红岩精神在新时代的重要地位和独特价值。<br>2020年8月，为深入贯彻习近平总书记关于弘扬红岩精神的重要指示精神，切实加强红岩革命文物保护传承，重庆市文化和旅游发展委员会印发《红岩革命文物保护传承工程实施方案》。</p>]]></content>
       
       
       
@@ -30,28 +30,6 @@
     
   
   
-    
-    
-    <entry>
-      <title>音乐</title>
-      <link href="/music/index.html"/>
-      <url>/music/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>友链</title>
-      <link href="/link/index.html"/>
-      <url>/link/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
     
     
     <entry>
@@ -59,7 +37,7 @@
       <link href="/about/index.html"/>
       <url>/about/index.html</url>
       
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>]]></content>
       
     </entry>
     
@@ -70,7 +48,7 @@
       <link href="/tags/index.html"/>
       <url>/tags/index.html</url>
       
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>]]></content>
       
     </entry>
     
@@ -81,7 +59,29 @@
       <link href="/movie/index.html"/>
       <url>/movie/index.html</url>
       
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>音乐</title>
+      <link href="/music/index.html"/>
+      <url>/music/index.html</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>友链</title>
+      <link href="/link/index.html"/>
+      <url>/link/index.html</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>]]></content>
       
     </entry>
     
